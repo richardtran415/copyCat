@@ -1,4 +1,4 @@
-surface-terminations
+copyCat
 ====================
 
-Files for the new version of surface.py, allows for enumerating of different terminations
+Personal repo of iPython notebooks, .py files, tests, etc codes and tools for creating slab structures and terminations for surface calculations. Exploration and python implementations of different algorithms found in hte literature. 
